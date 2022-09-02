@@ -1,6 +1,6 @@
 ### Hi there 👋   
-### After years of working as a graphic designer, it's time to move back to what I liked the most as a 12 year-old: coding. I barely remember what the language was I learned at school, but it was still the early days of computing.
-I was always drawn to the flickering screen, but somehow ended up working for print. Now I'm moving back to the screen. I'm training to become a front-end developer and a UI/UX designer. Or maybe I will even become a JavaScript-head. I don't really know yet. But thus far, totally enjoying the journey.
+### After years of working as a graphic designer, it's time to move back to what I liked the most as a 12 year-old: coding. I barely remember what the language was I learned at school (BASIC), but it was still the earlier days of computing.
+I was always drawn to the flickering screen, but somehow ended up working for print. Now I'm moving back to the screen. I'm training to become a full stack developer. Or maybe I will even become a JavaScript-head. I don't really know yet where the learning will take me. But thus far, totally enjoying the journey.
 
 <!--
 **graficdoctor/graficdoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
